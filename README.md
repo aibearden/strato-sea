@@ -1,6 +1,6 @@
 # Strato Sea
 
-Live ship tracking on a full-screen map. The browser only receives vessels inside the current view, and the [AISStream](https://aisstream.io) API key stays on the FastAPI backend.
+Live ship tracking on a full-screen map: [strato-sea.vercel.app](https://strato-sea.vercel.app). The browser only receives vessels inside the current view, and the [AISStream](https://aisstream.io) API key stays on the FastAPI backend.
 
 ![Singapore Strait with live AIS clusters](docs/screenshots/map.jpg)
 
